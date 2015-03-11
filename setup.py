@@ -1,6 +1,6 @@
 import os
 from setuptools import setup, find_packages
-
+ 
 # package meta info
 NAME = "DoubanSQLStore"
 VERSION = "0.0.1"
